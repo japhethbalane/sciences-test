@@ -8,18 +8,19 @@
 			"introduction": "i'm japheth... huehuehue",
 			"research": [
 				{
-				"title": "random",
-				"year-published": 1997,
-				"abstract": "nothing",
-				"authors": ["Japheth", "name2", "name3"],
-				"link": "https://randomsite.com"
-				},
-				{},
-				{},
-				{}
+					"title": "random",
+					"year-published": 1997,
+					"abstract": "nothing",
+					"authors": ["Japheth", "name2", "name3"],
+					"link": "https://randomsite.com"
+				}
 			],
 			"training": [
-				{}
+				{
+					"title": "prevent fire something...",
+					"date": "Martchh 45, 1997",
+					"description": "water everywhere..."
+				}
 			]
 		},
 		{
@@ -29,12 +30,9 @@
 			"photo": "url",
 			"introduction": "i'm japheth... huehuehue",
 			"research": [
-				{},
 				{}
 			],
 			"training": [
-				{},
-				{},
 				{}
 			]
 		}
@@ -47,7 +45,8 @@
 			],
 			"date": "yesterday",
 			"body": "shfkjlahfaslkjfakjefwlefkaflawfljwafaweflwj",
-			"author": ""
+			"author": "",
+			"photo": "url"
 		},
 		{
 			"title": "somebody died tomorrow",
@@ -57,7 +56,8 @@
 			],
 			"date": "yesterday",
 			"body": "asjdhfkjlashfkjlahfaslkjfakjefwlefkaflaj",
-			"author": "noone"
+			"author": "noone",
+			"photo": "url"
 		}
 	]
 }
