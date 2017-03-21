@@ -6,14 +6,21 @@
 			"position": "Dean",
 			"photo": "url",
 			"introduction": "i'm japheth... huehuehue",
-			"research": [{
+			"research": [
+				{
 				"title": "random",
 				"year-published": 1997,
 				"abstract": "nothing",
 				"authors": ["Japheth", "name2", "name3"],
 				"link": "https://randomsite.com"
-			}, {}, {}, {}],
-			"training": [{}]
+				},
+				{},
+				{},
+				{}
+			],
+			"training": [
+				{}
+			]
 		},
 		{
 			"name": "Juan",
@@ -21,21 +28,33 @@
 			"position": "Random",
 			"photo": "url",
 			"introduction": "i'm japheth... huehuehue",
-			"research": [{}, {}],
-			"training": [{}, {}, {}]
+			"research": [
+				{},
+				{}
+			],
+			"training": [
+				{},
+				{},
+				{}
+			]
 		}
 	],
 	"news": [
 		{
 			"title": "somebody died",
-			"tag": ["random"],
+			"tag": [
+				"random"
+			],
 			"date": "yesterday",
 			"body": "shfkjlahfaslkjfakjefwlefkaflawfljwafaweflwj",
 			"author": ""
 		},
 		{
 			"title": "somebody died tomorrow",
-			"tag": ["relevant", "horror"],
+			"tag": [
+				"relevant",
+				"horror"
+			],
 			"date": "yesterday",
 			"body": "asjdhfkjlashfkjlahfaslkjfakjefwlefkaflaj",
 			"author": "noone"
