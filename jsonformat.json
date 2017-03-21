@@ -1,0 +1,44 @@
+{
+	"faculties": [
+		{
+			"name": "Japheth",
+			"college": "Computer Science",
+			"position": "Dean",
+			"photo": "url",
+			"introduction": "i'm japheth... huehuehue",
+			"research": [{
+				"title": "random",
+				"year-published": 1997,
+				"abstract": "nothing",
+				"authors": ["Japheth", "name2", "name3"],
+				"link": "https://randomsite.com"
+			}, {}, {}, {}],
+			"training": [{}]
+		},
+		{
+			"name": "Juan",
+			"college": "Math",
+			"position": "Random",
+			"photo": "url",
+			"introduction": "i'm japheth... huehuehue",
+			"research": [{}, {}],
+			"training": [{}, {}, {}]
+		}
+	],
+	"news": [
+		{
+			"title": "somebody died",
+			"tag": ["random"],
+			"date": "yesterday",
+			"body": "shfkjlahfaslkjfakjefwlefkaflawfljwafaweflwj",
+			"author": ""
+		},
+		{
+			"title": "somebody died tomorrow",
+			"tag": ["relevant", "horror"],
+			"date": "yesterday",
+			"body": "asjdhfkjlashfkjlahfaslkjfakjefwlefkaflaj",
+			"author": "noone"
+		}
+	]
+}
